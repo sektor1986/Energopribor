@@ -1,0 +1,20 @@
+Field=Designator~String~Designator~246|Field=Comment~String~Comment~185|Field=Quantity~Integer~Quantity~158|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Dev_1.PrjPcb|ReportField=ProjectFullPath~D:\Work\Энергоприбор\Документы\Scheme\Dev_1.PrjPcb|ReportField=Title~Bill of Materials For Schematic Document [Sheet2.SchDoc]|ReportField=TotalQuantity~93|ReportField=ReportTime~19:15:13|ReportField=ReportDate~02.03.2014|ReportField=ReportDateTime~02.03.2014 19:15:13|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~02.03.2014|ReportField=CurrentTime~19:12:21|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Work\Энергоприбор\Документы\Scheme\Sheet2.SchDoc|ReportField=DocumentName~Sheet2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~02.03.2014|ReportField=Organization~|ReportField=ProjectName~Dev_1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Sheet2.SchDoc|ReportField=DataSourceFullPath~D:\Work\Энергоприбор\Документы\Scheme\Sheet2.SchDoc
+C1, C2, C3, C4, C7, C8, C10, C11, C16, C17, C18|100nF|11
+C5, C6|20pF|2
+C9|2.2uF|1
+C12, C13, C14, C15|47uF|4
+D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32|LED0|32
+DD1, DD2, DD4, DD5|DM134B|4
+DD3|SN65LBC184|1
+DS1, DS2, DS3, DS4, DS5, DS6|DA08-11GWA|6
+P1|Header 4|1
+P2|Header 5X2|1
+Q1, Q2, Q3|IRLML6401|3
+R1, R2|1.2K|2
+R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R17, R18, R19, R20|10K|14
+R13, R14|10|2
+R15, R16|1.7K|2
+S1, S2, S3, S4|SW-PB|4
+U1|STM32F303CB|1
+U2|KF33BDT-TR|1
+Y1|8 MHz|1
