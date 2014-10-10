@@ -3,6 +3,32 @@ History
 *.PrjPCBStructure
 Project Outputs for *
 Project Logs for *
+
 # Исключения проекта
 Analogs meters/*
 /temp/*
+
+# Исключения для KEIL
+*.axf
+*.htm
+*.Inp
+*.map
+*.tra
+*.dep
+*.__i
+*.crf
+*.d
+*.o
+*.lst
+*.lnp
+*.bak
+*.Vishwas
+*.bin
+*.fed
+*._2i
+*.l1p
+*.l2p
+*.iex
+.#*
+*.uvgui.*
+*.uvopt
