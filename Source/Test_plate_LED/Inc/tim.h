@@ -43,8 +43,10 @@
 #include "stm32f3xx_hal.h"
 
 extern TIM_HandleTypeDef htim7;
+extern TIM_HandleTypeDef htim8;
 
 void MX_TIM7_Init(void);
+void MX_TIM8_Init(void);
 
 #ifdef __cplusplus
 }

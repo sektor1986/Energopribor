@@ -10,6 +10,7 @@
 	 
 void main_init(void);
 void main_update(void);
+void LedUpdate(void);
 #ifdef __cplusplus
 }
 #endif
