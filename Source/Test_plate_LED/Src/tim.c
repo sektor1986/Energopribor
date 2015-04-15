@@ -54,7 +54,7 @@ void MX_TIM7_Init(void)
 	uint32_t uwPrescalerValue = 0;
   TIM_MasterConfigTypeDef sMasterConfig;
 
-	uwPrescalerValue = (uint32_t) (SystemCoreClock / 10000) - 1; // 10 kHz
+	uwPrescalerValue = (uint32_t) (SystemCoreClock / 5000) - 1; // 5 kHz
   htim7.Instance = TIM7;
   htim7.Init.Prescaler = uwPrescalerValue;
   htim7.Init.CounterMode = TIM_COUNTERMODE_UP;
